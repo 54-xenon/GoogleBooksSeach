@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:googlebooksseach/screens/search_screen.dart';
 
 void main() {
   runApp(MyApp());
@@ -12,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'GoogleBooks Search',
       debugShowCheckedModeBanner: false,
-      
+      home: SearchScreen(),
     );
   }
 }
