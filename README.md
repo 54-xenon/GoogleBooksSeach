@@ -15,3 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # GoogleBooksSeach
+GoogleBooks APIを使用して、本を検索することができる簡単なアプリ。ほぼ自分の学習だけど今flutterでモバイルアプリ開発してる人は参考になるかもしれない。
