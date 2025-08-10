@@ -16,7 +16,21 @@ class SearchScreen extends StatelessWidget {
       ),
 
       // books list -> ListView
-      body: Container(),
+      body: Column(
+        children: [
+          Padding(
+            padding: const EdgeInsets.symmetric(
+              vertical: 12,
+              horizontal: 36
+            ),
+            child: TextField(
+              decoration: InputDecoration(
+                hintText: 'ここに入力して検索'
+              ),
+            ),
+          )
+        ],
+      ),
     );
   }
 }
