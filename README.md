@@ -18,3 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 GoogleBooks APIを使用して、本を検索することができる簡単なアプリ。ほぼ自分の学習だけど今flutterでモバイルアプリ開発してる人は参考になるかもしれない。
 ## パッケージの依存関係とか
 ## GoogleBooks APIの使用を軽く紹介
+Google Books APIのドキュメント+QiitaやZennなどの記事も参考にしています。できる限りミス・間違いが内容にはしていいます。
